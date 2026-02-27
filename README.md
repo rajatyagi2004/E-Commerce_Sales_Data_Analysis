@@ -74,7 +74,7 @@ This project simulates a real-world Business Intelligence case study.
 ### 📁 05_Reports  
 
 🔗 Project Report (PDF)  
-👉 [View Project Report](https://github.com/rajatyagi2004/E-Commerce_Sales_Data_Analysis/blob/main/Reports/Project.Report.pdf)
+👉 [View Project Report](https://github.com/rajatyagi2004/E-Commerce_Sales_Data_Analysis/blob/main/Reports/Project.Report%20(2).pdf)
 
 🔗 Project Presentation (PPT)  
 👉 [View Presentation](https://github.com/rajatyagi2004/E-Commerce_Sales_Data_Analysis/blob/main/Reports/Report_Presentation.pdf)
