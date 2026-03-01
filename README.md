@@ -67,14 +67,14 @@ This project simulates a real-world Business Intelligence case study.
 👉 [Download Power BI Dashboard](https://github.com/rajatyagi2004/E-Commerce_Sales_Data_Analysis/blob/main/04_PowerBi_Dashboard/Dashboard.pbix)
 
 🔗 Dashboard Preview Image  
-👉 [View Dashboard Image](https://github.com/rajatyagi2004/E-Commerce_Sales_Data_Analysis/blob/main/04_PowerBi_Dashboard/Dashboard_Image.png)
+👉 [View Dashboard Image]()
 
 ---
 
 ### 📁 05_Reports  
 
 🔗 Project Report (PDF)  
-👉 [View Project Report](https://github.com/rajatyagi2004/E-Commerce_Sales_Data_Analysis/blob/main/Reports/Project.Report%20(2).pdf)
+👉 [View Project Report](https://github.com/rajatyagi2004/E-Commerce_Sales_Data_Analysis/blob/main/Reports/Project.Report%20(1).pdf)
 
 🔗 Project Presentation (PPT)  
 👉 [View Presentation](https://github.com/rajatyagi2004/E-Commerce_Sales_Data_Analysis/blob/main/Reports/Report_Presentation.pdf)
